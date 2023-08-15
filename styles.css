@@ -15,7 +15,7 @@ html {
 }
 
 body {
-	background: linear-gradient(#e6e6e6, #334472cb);
+	background: linear-gradient(cyan, #334472cb);
 }
 
 .iphone-body {
@@ -27,7 +27,7 @@ body {
 	transform: translate(-50%, -50%);
 	border: 15px solid #000;
   background: #000;
-	background-image: url('https://wallpaperaccess.com/full/2639103.png');
+	background-image: url('https://wallpaperaccess.com/full/794.jpg');
 	background-repeat: no-repeat;
 	background-size: 280px 600px;
 	border-radius: 49px;
